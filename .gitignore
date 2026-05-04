@@ -1,0 +1,18 @@
+# 依赖文件
+node_modules/
+target/
+*.log
+logs/behavior/*.json
+logs/mind/*.db
+logs/mind/*.db-journal
+__pycache__/
+*.pyc
+.env
+.venv/
+dist/
+build/
+.anchor/
+.DS_Store
+*.key
+*.keypair
+id.json
