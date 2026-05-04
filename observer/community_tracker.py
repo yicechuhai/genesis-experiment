@@ -32,7 +32,7 @@ class CommunityTracker:
     
     def __init__(
         self,
-        repo_owner: str = "zhaofei",
+        repo_owner: str = "yicechuhai",
         repo_name: str = "genesis-experiment",
         github_token: Optional[str] = None,
         check_interval: int = 3600,  # 每小时检查一次
